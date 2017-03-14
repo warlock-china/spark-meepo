@@ -1,10 +1,3 @@
-/**
- * Copyright 2016 BFD inc.
- * Author: qifeng.dai@baifendian.com
- * Create Time: 2016-04-12 11:08
- * Modify:
- * Desc:
- **/
 package cn.com.warlock.ml
 
 import scala.beans.BeanInfo
